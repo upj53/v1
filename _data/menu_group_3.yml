@@ -1,0 +1,12 @@
+- name: Projects
+  label: Projects #지금할일!
+  prefix: projects
+- name: Area
+  label : Area #은근과 끈기
+  prefix: area
+- name: Resource
+  label : Resource #일신우일신
+  prefix: resource
+- name: Archive
+  label : Archive #zip
+  prefix: archive

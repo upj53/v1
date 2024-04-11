@@ -1,0 +1,39 @@
+<!-----Footer----->
+{% if page.title != 'Home' and page.title != 'About' and page.title != '404 Not Found' %}
+<div id="backtotop">
+  <a href="#top" style="position:fixed; bottom:5px; right:1px; ">
+    <img src="/assets/homepage/back-to-top.png" style="width:35px; height:auto;"/>
+  </a>
+</div>
+{% endif %}
+
+<footer class="site-footer"
+{% if page.title != 'Home' and page.title != 'About' and page.title != '404 Not Found' %}
+        style="margin-top: 100px;"
+{% endif %}
+  >
+  <div class="container">
+    <a href="/"><img src="/assets/homepage/brand.png" height="30" width="auto" style="vertical-align: top; display: inline-block;"/></a>
+    &nbsp;
+    <p style="display: inline-block;">
+      <a href="/about/">About</a>
+      &nbsp;
+      <a href="https://github.com/upj53" target="_blank">GitHub</a>
+      &nbsp;
+      <br/>
+      © 2021. A Park Won-june project.
+    </p>
+  </div>
+</footer>
+
+{% if page.title != 'Home' and page.title != 'About' and page.title != '404 Not Found' %}
+<script type="text/javascript" defer src="/assets/js/prism.js"></script>
+<script type="text/javascript" src="/assets/js/anchor.min.js"></script>
+<script type="text/javascript">
+  anchors.options = {
+    placement: 'right',
+  };
+  anchors.add('h1, h2, h3, h4, h5').remove('.no-anchor');
+</script>
+{% endif %}
+

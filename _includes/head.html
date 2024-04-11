@@ -1,0 +1,36 @@
+<!-----Header----->
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/homepage/favorite.ico"/>
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+
+  <title>
+    {% if jekyll.environment == "development" %}
+    upj
+    {% else %}
+    UPJ
+    {%endif%}
+    {% if page.title != 'Home' %} ＞ {{ page.title }}{%endif%}
+  </title>
+
+  <script type="text/javascript" defer src="/assets/js/jquery-3.6.3.min.js"></script>
+  <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/css/upj_design.css">
+  {% if page.title == 'Home' or page.title == 'About' or page.title == '404 Not Found' %}
+  <link href="/assets/css/upj_home.css" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/495b78ac0e.js" crossorigin="anonymous"></script>
+  {% else %}
+  <link href="/assets/css/upj_toc.css" rel="stylesheet">
+  <link href="/assets/css/upj_page.css" rel="stylesheet">
+  <link href="/assets/css/prism.css" rel="stylesheet">
+  {% endif %}
+
+  <script type="text/javascript" defer src="/assets/js/bootstrap.bundle.min.js"></script>
+  <script type="text/javascript" defer src="/assets/js/bootstrap-toc.min.js"></script>
+  <script type="text/javascript" defer src="https://kit.fontawesome.com/eaa55c88d8.js" crossorigin="anonymous"></script>
+</head>
+

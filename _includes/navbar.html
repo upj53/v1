@@ -1,0 +1,219 @@
+<!-----Navbar----->
+<nav class="navbar navbar-expand-lg navbar-dark upj-nav" style="background: #FF7C36;">
+  <div class="container">
+    <a class="navbar-brand" href="/" style="margin-top: 2px; margin-bottom: 3px">
+      <img src="/assets/homepage/brand.png" height="30" width="auto" class="d-inline-block align-top"
+           alt="Markdown Guide" style="margin-top: 4px; padding-right: 10px">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+            aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <div class="navbar-nav">
+        <!---------기본메뉴: 그룹 1----------->
+        {% for item in site.data.menu_group_1 %}
+        <li class="nav-item">
+          <a href="{{ item.link }}" class="nav-link {% if page.url == item.link %}active{% endif %}">{{ item.name }}</a>
+        </li>
+        {% endfor %}
+
+        <!---------개발자 기본
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle {% if page.url contains '/basics/' %}active{% endif %}" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Dev-Basics
+          </a>
+          <ul class="dropdown-menu">
+            {% for item in site.data.basics %}
+            {% if item.name == 'line' %}
+            <li>
+              <hr class="dropdown-divider">
+            </li>
+            {% else %}
+            <li><a class="dropdown-item {% if page.url == item.link %}active{% endif %}" href="{{ item.link }}">{{ item.name }}</a></li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+        </li>
+        ----------->
+
+        <!---------그룹 2: my----------->
+        {% for item in site.data.menu_group_2 %}
+        <li class="nav-item">
+          <a href="{{ item.link }}" class="nav-link {% if page.url == item.link %}active{% endif %}">{{ item.name }}</a>
+        </li>
+        {% endfor %}
+        
+        <!---------그룹 3:  PARA----------->
+        {% for item in site.data.menu_group_3 %}
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle {% if page.url contains item.prefix %}active{% endif %}" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            {{ item.label }}
+          </a>
+          <!--
+          <ul class="dropdown-menu">
+            {% for i in site.para-projects %}
+            {% if i.title == 'divider' %}
+            <li><hr class="dropdown-divider"></li>
+            {% else %}
+            <li><a class="dropdown-item {% if page.url == i.permalink %}active{% endif %}" href="{{ i.permalink }}">{{ i.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+          -->
+          {% if item.name == 'Projects' %}
+          <ul class="dropdown-menu">
+            {% for i in site.para-projects %}
+            {% if i.title == 'divider' %}
+            <li><hr class="dropdown-divider"></li>
+            {% else %}
+            {% if jekyll.environment == "development" %}
+            <li><a class="dropdown-item {% if page.url == i.permalink %}active{% endif %}" href="{{ i.permalink }}">{{ i.title }}</a></li>
+            {% else %}
+            {% unless i.private %}
+            <li><a class="dropdown-item {% if page.url == i.permalink %}active{% endif %}" href="{{ i.permalink }}">{{ i.title }}</a></li>
+            {% endunless %}
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+          </ul>
+          {% elsif item.name == 'Area' %}
+          <ul class="dropdown-menu">
+            {% for i in site.para-area %}
+            {% if i.title == 'divider' %}
+            <li><hr class="dropdown-divider"></li>
+            {% else %}
+            {% if jekyll.environment == "development" %}
+            <li><a class="dropdown-item {% if page.url == i.permalink %}active{% endif %}" href="{{ i.permalink }}">{{ i.title }}</a></li>
+            {% else %}
+            {% unless i.private %}
+            <li><a class="dropdown-item {% if page.url == i.permalink %}active{% endif %}" href="{{ i.permalink }}">{{ i.title }}</a></li>
+            {% endunless %}
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+          </ul>
+          {% elsif item.name == 'Resource' %}
+          <ul class="dropdown-menu">
+            {% for i in site.para-resource %}
+            {% if i.title == 'divider' %}
+            <li><hr class="dropdown-divider"></li>
+            {% else %}
+            {% if jekyll.environment == "development" %}
+            <li><a class="dropdown-item {% if page.url == i.permalink %}active{% endif %}" href="{{ i.permalink }}">{{ i.title }}</a></li>
+            {% else %}
+            {% unless i.private %}
+            <li><a class="dropdown-item {% if page.url == i.permalink %}active{% endif %}" href="{{ i.permalink }}">{{ i.title }}</a></li>
+            {% endunless %}
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+          </ul>
+          {% else %}
+          <ul class="dropdown-menu">
+            {% for i in site.para-archive %}
+            {% if i.title == 'divider' %}
+            <li><hr class="dropdown-divider"></li>
+            {% else %}
+            {% if jekyll.environment == "development" %}
+            <li><a class="dropdown-item {% if page.url == i.permalink %}active{% endif %}" href="{{ i.permalink }}">{{ i.title }}</a></li>
+            {% else %}
+            {% unless i.private %}
+            <li><a class="dropdown-item {% if page.url == i.permalink %}active{% endif %}" href="{{ i.permalink }}">{{ i.title }}</a></li>
+            {% endunless %}
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </li>
+        {% endfor %}
+        
+        <!--ID생성버튼-->
+        <li class="nav-item">
+          <script type="text/javascript">
+            function getID() {
+              prompt('', `{: #upj_${Date.now()}}`);
+              return false;
+            }
+          </script>
+          <a href="javascript:getID();" class="nav-link" style="color: rgba(0, 0, 0, 0);">ID</a>
+           <!-- style="color: #FF7C36;" -->
+        </li>
+
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Link
+          </a>
+          <ul class="dropdown-menu">
+          <!--
+            <li><a class="dropdown-item" href=""></a></li>
+            <li><hr class="dropdown-divider"></li>
+          -->
+            <li><a class="dropdown-item" href="https://calendar.google.com/calendar/u/0/r">Calendar</a></li>
+            <li><a class="dropdown-item" href="https://mail.google.com/mail/u/0/#inbox">Gmail</a></li>
+            <li><a class="dropdown-item" href="https://ide.goorm.io/my/dashboard">구름</a></li>
+            <li><a class="dropdown-item" href="https://www.youtube.com/">YouTube</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="https://github.com/upj53/upj53.github.io/blob/master/README.md">Github Home</a></li>
+            <li><a class="dropdown-item" href="https://github.com/upj53/minimal-mistakes/blob/master/README.md">Github Renewal</a></li>
+            <li><a class="dropdown-item" href="https://github.com/mmistakes/minimal-mistakes/blob/master/README.md">Github Minimal Mistakes</a></li>
+            <li><a class="dropdown-item" href="https://github.com/upj53/goorm_fastapi/blob/master/main.py">Goorm FastAPI(back-end)</a></li>
+            <li><a class="dropdown-item" href="https://github.com/upj53/goorm_svelte_frontend/blob/master/src/App.svelte">Goorm Svelte(front-end)</a></li>
+            <li><a class="dropdown-item" href="https://github.com/upj53/goorm_svelte_pybo/blob/master/src/App.svelte">Pybo Svelte(front-end)</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">Bootstrap</a></li>
+            <li><a class="dropdown-item" href="https://fontawesome.com/search?o=r&m=free">FontAwesome</a></li>
+            <li><a class="dropdown-item" href="https://heropy.blog/">Heropy Tech</a></li>
+            <li><a class="dropdown-item" href="https://www.heropy.dev/">Heropy Dev</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="https://sdc-james.gitbook.io/onebook">파이썬 & 머신러닝 & 딥러닝</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="https://kr.tradingview.com/chart/?symbol=AMEX%3ASOXL">TradingView</a></li>
+            <li><a class="dropdown-item" href="https://edition.cnn.com/markets/fear-and-greed">Fear & Greed Index (1)</a></li>
+            <li><a class="dropdown-item" href="https://en.macromicro.me/collections/34/us-stock-relative/50108/cnn-fear-and-greed">Fear & Greed Index (2)</a></li>
+            <li><a class="dropdown-item" href="https://www.google.com/finance/quote/USD-KRW?window=6M">원달러 환율</a></li>
+            <li><a class="dropdown-item" href="https://kr.investing.com/portfolio/?portfolioID=OT5mMjNjMmgxYmhmZTM3MQ%3D%3D">Investing.com</a></li>
+            <li><a class="dropdown-item" href="https://m.mk.co.kr/">매일경제</a></li>
+          </ul>
+          </li>
+        
+        <!---------준비중 preparing
+        {% if jekyll.environment == "development" %}
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle {% if page.url contains '/pre/' %}active{% endif %}" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            preparing
+          </a>
+          <ul class="dropdown-menu">
+            {% for item in site.preparing %}
+            {% unless item.title contains "Test" %}
+            <li><a class="dropdown-item {% if page.url == item.permalink %}active{% endif %}" href="{{ item.permalink }}">{{ item.title }}</a></li>
+            {% endunless %}
+            {% endfor %}
+          </ul>
+        </li>
+        ----------->
+        <!--collection
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle {% if page.url contains '/pre/' %}active{% endif %}" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            collection
+          </a>
+          <ul class="dropdown-menu">
+            {% for item in site.projects.posts %}
+            <li><a class="dropdown-item" href="{{ item.permalink }}">{{ item.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+        collection-->
+        {% endif %} 
+      </div>
+    </div>
+
+    <!--
+    <form class="form-inline d-none d-lg-inline-block mt-2 mt-md-0">
+      <input type="text" class="form-control" id="search-input" placeholder="Search" style="margin-top:0" onclick="alert('준비중입니다.'); return false;">
+    </form>
+    -->
+  </div>
+</nav>
+

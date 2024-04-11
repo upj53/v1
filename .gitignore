@@ -1,0 +1,14 @@
+*.gem
+.bundle
+.ruby-version
+.jekyll-cache/*
+.sass-cache
+_site/*
+.idea/*
+Gemfile.lock
+node_modules
+.DS_Store
+goorm.manifest
+
+# my gitignore
+nohup.out

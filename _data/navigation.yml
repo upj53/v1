@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Git
+  link: /basics/git/
+- name: Linux
+  link: /basics/linux/
+- name: Missions
+  link: /missions/

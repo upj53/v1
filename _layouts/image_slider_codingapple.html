@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="margin:0; ">
+<style>
+.container {
+  width: 500vw;
+  transition: transform 0.5s;
+}
+.inner {
+  width: 100vw;
+  float: left;
+}
+
+.inner img {
+  width: 100%;
+}
+</style>
+<div style="overflow: hidden; ">
+    <div class="container">
+        <div class="inner">
+            <img src="pic1.png">
+        </div>
+        <div class="inner">
+            <img src="pic2.png">
+        </div>
+        <div class="inner">
+            <img src="pic3.png">
+        </div>
+        <div class="inner">
+            <img src="pic4.png">
+        </div>
+        <div class="inner">
+            <img src="pic5.png">
+        </div>
+    </div>
+</div>
+
+<button class="btn1">1</button>
+<button class="btn2">2</button>
+<button class="btn3">3</button>
+
+<script>
+  // transform: translate(-100vw)
+  document.querySelector('.btn2').addEventListener('click', function() {
+    document.querySelector('.container').style.transform = 'translate(-100vw)';
+  });
+</script>
+
+</body>
+</html>
