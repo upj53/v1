@@ -47,7 +47,7 @@ permalink: /area/slownsteady/
 </thead>
 <tbody>
 <tr class="text-center" style="color:blue; font-weight:bold;">
-<td>SOXL</td>
+<td>SOXL 1.0</td>
 <td>1.51%</td>
 <td>0.31%</td>
 <td>10.61B</td>
@@ -55,7 +55,7 @@ permalink: /area/slownsteady/
 <td>2010-03-11</td>
 </tr>
 <tr class="text-center" style="color:red; font-weight:bold;">
-<td>TQQQ</td>
+<td>TQQQ 1.0</td>
 <td>0.88%</td>
 <td>1.14%</td>
 <td>20.76B</td>
@@ -63,7 +63,7 @@ permalink: /area/slownsteady/
 <td>2010-02-11</td>
 </tr>
 <tr class="text-center" style="color:green; font-weight:bold;">
-<td>UPRO</td>
+<td>UPRO 1.0</td>
 <td>0.92%</td>
 <td>0.62%</td>
 <td>3.11B</td>
@@ -71,7 +71,7 @@ permalink: /area/slownsteady/
 <td>2009-06-25</td>
 </tr>
 <tr class="text-center" style="color:blue; font-weight:bold;">
-<td>SOXS</td>
+<td>SOXS 1.1</td>
 <td>1.13%</td>
 <td>12.11%</td>
 <td>742.86M</td>
@@ -79,7 +79,7 @@ permalink: /area/slownsteady/
 <td>2010-03-11</td>
 </tr>
 <tr class="text-center" style="color:red; font-weight:bold;">
-<td>SQQQ</td>
+<td>SQQQ 4.8</td>
 <td>0.95%</td>
 <td>9.91%</td>
 <td>3.23B</td>
@@ -87,7 +87,7 @@ permalink: /area/slownsteady/
 <td>2010-02-11</td>
 </tr>
 <tr class="text-center" style="color:green; font-weight:bold;">
-<td>SPXU</td>
+<td>SPXU 1.7</td>
 <td>0.90%</td>
 <td>9.59%</td>
 <td>3.31B</td>
@@ -112,6 +112,10 @@ permalink: /area/slownsteady/
 </tr>
 </tbody>
 </table>
+
+- <span style="color:blue;">SOX 9.78=(-1.51+0.31)+(-1.13+12.11)</span>
+- <span style="color:red;">QQQ 9.22=(-0.88+1.14)+(-0.95+9.91)</span>
+- <span style="color:green;">SPY 8.39=(-0.92+0.62)+(-0.9+9.59)</span>
 
 ### 월초 시장정보 요약
 {: #upj_1705714728847}

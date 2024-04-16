@@ -587,8 +587,8 @@ wget https://raw.githubusercontent.com/hdima/python-syntax/master/syntax/python.
 리뉴얼
 
 ```vim
-"colorscheme torte
-colorscheme slate
+colorscheme torte
+"colorscheme slate
 
 "set autoindent "불필요
 "set softtabstop=4 "불필요
@@ -713,9 +713,9 @@ let g:NERDTreeWinSize=20
 nnoremap <C-t> :terminal<CR>
 
 "이전 버퍼로 이동
-nnoremap <S-h> :bprevious!<Enter>
+nnoremap <C-h> :bprevious!<Enter>
 "다음 버퍼로 이동
-nnoremap <S-l> :bnext!<Enter>
+nnoremap <C-l> :bnext!<Enter>
 "현재 버퍼를 닫고 이전 버퍼로 이동
 nnoremap <C-j> :bp <BAR> bd #<Enter>
 ```
