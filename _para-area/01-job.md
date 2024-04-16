@@ -194,6 +194,33 @@ permalink: /area/job/
   - [x]  ~~응급처치 및 심폐소생술(2회)~~
   - [x]  ~~성인지교육(2회)~~
 
+## 역량 강화
+{: #upj_1705714728834}
+
+### 내적 동기를 자극하는 에너지 리더십
+{: #upj_1705714728835}
+
+강점 테스트 도구
+
+- [VIA 강점검사](http://www.kppsi.com/main.php?location=positive4)
+- [스트렝스 5](https://www.strength5.co.kr/)
+- [클리프턴 스트렝스](https://www.gallup.com/access/), [가이드](https://blog.naver.com/chungrimpub/221663968737)
+- [에니어그램](https://www.kenneagram.com/), [MBTI](https://www.16personalities.com/ko), [태지니먼트](https://www.tanagement.co.kr/)
+
+내가 예측한대로 결과가 나온 것에 대해 칭찬 하는 것이 필요하다. 
+
+의견 좀 내줘.
+보다
+조언을 구하라.
+
+훈수가 활성화된 조직
+남의 부하에게 호의를 베푼다.
+사자가 멸종하지 않는 이유는 남의 부하를 잘 챙기기 때문이다.
+
+(일본군) Do you understand?
+
+(미군) Am I Clear? 
+
 ## 성일정보고
 {: #upj_1676872313196}
 
