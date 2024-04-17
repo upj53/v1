@@ -87,8 +87,9 @@ permalink: /git/
 
 ```shell
 git init
-git config --global user.name {MY ID}
-git config --global user.password {MY PASSWORD}
+git config user.name {MY ID}
+git config user.email {MY EMAIL}
+git config user.password {MY PASSWORD}
 git remote add origin {MY REMOTE GIT ADDRESS}
 git pull origin master
 ```
@@ -235,8 +236,3 @@ git add . && git commit -m "$msg" && git push origin +master
 	helper = store
 ```
 
-```bash
-git config user.name upj53
-git config user.email unitedparks@gmail.com
-git config credential.helper store
-```

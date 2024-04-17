@@ -144,11 +144,11 @@ permalink: /area/slownsteady/
 <img src="" alt="FG-2 2024-00-00" style="width:100%; height:auto;"/>
 -->
 
-2024-04-16
+2024-04-17
 
-<img src="https://github.com/upj53/shared/assets/27456270/d05fb670-9581-4947-83dc-6787e81ceab9" alt="FG-1 2024-04-16" style="width:100%; height:auto;"/>
+<img src="https://github.com/upj53/shared/assets/27456270/33892b9a-5b0a-4ec1-809a-25c4e5385d53" alt="FG-1 2024-04-17" style="width:100%; height:auto;"/>
 
-<img src="https://github.com/upj53/shared/assets/27456270/25daa02c-695c-40f3-84db-d4dcab60a667" alt="FG-2 2024-04-16" style="width:100%; height:auto;"/>
+<img src="https://github.com/upj53/shared/assets/27456270/882f92a7-0f0d-4d10-a111-ade8299730e8" alt="FG-2 2024-04-17" style="width:100%; height:auto;"/>
 
 2024-04-11
 
@@ -166,10 +166,10 @@ permalink: /area/slownsteady/
 <img src="" alt="SOXL 2024-00-00 B type" style="width:100%; height:auto;"/></a>
 -->
 
-<img src="https://github.com/upj53/shared/assets/27456270/aedaee6e-aa02-49e7-9654-f9840f127361" alt="SOXL 2024-04-16 A type" style="width:100%; height:auto;"/>
+<img src="https://github.com/upj53/shared/assets/27456270/4dc847f9-1306-4ba4-ae5c-4b4ec6dba141" alt="SOXL 2024-04-17 A type" style="width:100%; height:auto;"/>
 
-<a href="https://github.com/upj53/shared/assets/27456270/92cf1d29-2246-4079-940b-e5cdad64a80a">
-<img src="https://github.com/upj53/shared/assets/27456270/92cf1d29-2246-4079-940b-e5cdad64a80a" alt="SOXL 2024-04-16 B type" style="width:100%; height:auto;"/></a>
+<a href="https://github.com/upj53/shared/assets/27456270/677e5f91-7622-4312-9fa9-5a098252a055">
+<img src="https://github.com/upj53/shared/assets/27456270/677e5f91-7622-4312-9fa9-5a098252a055" alt="SOXL 2024-04-17 B type" style="width:100%; height:auto;"/></a>
 
 <img src="https://github.com/upj53/shared/assets/27456270/cf747df4-b636-4efd-b64d-2aab58d66a5e" alt="SOXL 2024-04-11 A type" style="width:100%; height:auto;"/>
 
@@ -193,10 +193,10 @@ permalink: /area/slownsteady/
 <img src="" alt="TQQQ 2024-00-00 B type" style="width:100%; height:auto;"/></a>
 -->
 
-<img src="https://github.com/upj53/shared/assets/27456270/898255bc-67f3-4cf4-b350-95d20a6f1d40" alt="TQQQ 2024-04-16 A type" style="width:100%; height:auto;"/>
+<img src="https://github.com/upj53/shared/assets/27456270/4b29aab4-6aaf-495f-81f8-bc0a11891ffc" alt="TQQQ 2024-04-17 A type" style="width:100%; height:auto;"/>
 
-<a href="https://github.com/upj53/shared/assets/27456270/a13da5a1-4293-4bc0-8c4b-5130c2c4a76e">
-<img src="https://github.com/upj53/shared/assets/27456270/a13da5a1-4293-4bc0-8c4b-5130c2c4a76e" alt="TQQQ 2024-04-16 B type" style="width:100%; height:auto;"/></a>
+<a href="https://github.com/upj53/shared/assets/27456270/c72644ed-62d4-4348-9f22-55b17a762473">
+<img src="https://github.com/upj53/shared/assets/27456270/c72644ed-62d4-4348-9f22-55b17a762473" alt="TQQQ 2024-04-17 B type" style="width:100%; height:auto;"/></a>
 
 <img src="https://github.com/upj53/shared/assets/27456270/5c11e077-b987-4408-85f4-8093b00b0515" alt="TQQQ 2024-04-05 A type" style="width:100%; height:auto;"/>
 
@@ -220,10 +220,10 @@ permalink: /area/slownsteady/
 <img src="" alt="UPRO 2024-00-00 B type" style="width:100%; height:auto;"/></a>
 -->
 
-<img src="https://github.com/upj53/shared/assets/27456270/12efe298-0c94-4c59-9e29-f9911977d8b4" alt="UPRO 2024-04-16 A type" style="width:100%; height:auto;"/>
+<img src="https://github.com/upj53/shared/assets/27456270/37053bf5-b69a-4577-8c1d-df94b268e30d" alt="UPRO 2024-04-17 A type" style="width:100%; height:auto;"/>
 
-<a href="https://github.com/upj53/shared/assets/27456270/07ecf36a-bf12-488e-b7d0-40b03cf15c2a">
-<img src="https://github.com/upj53/shared/assets/27456270/07ecf36a-bf12-488e-b7d0-40b03cf15c2a" alt="UPRO 2024-04-16 B type" style="width:100%; height:auto;"/></a>
+<a href="https://github.com/upj53/shared/assets/27456270/06c6236b-842e-4f50-bdc3-82b1f7820f98">
+<img src="https://github.com/upj53/shared/assets/27456270/06c6236b-842e-4f50-bdc3-82b1f7820f98" alt="UPRO 2024-04-17 B type" style="width:100%; height:auto;"/></a>
 
 <img src="https://github.com/upj53/shared/assets/27456270/17a2b314-a33b-4ec4-8f35-2b3e58fcd503" alt="UPRO 2024-04-11 A type" style="width:100%; height:auto;"/>
 
@@ -247,10 +247,10 @@ permalink: /area/slownsteady/
 <img src="" alt="Samsung 2024-00-00 B type" style="width:100%; height:auto;"/></a>
 -->
 
-<img src="https://github.com/upj53/shared/assets/27456270/9aa545c1-809a-4762-966e-8c28ded69f04" alt="Samsung 2024-04-16 A type" style="width:100%; height:auto;"/>
+<img src="https://github.com/upj53/shared/assets/27456270/878a8ee4-ad52-4634-8108-bb24d7a073fb" alt="Samsung 2024-04-17 A type" style="width:100%; height:auto;"/>
 
-<a href="https://github.com/upj53/shared/assets/27456270/fc4fc3df-487b-4b93-a34e-79c2f74d0d67">
-<img src="https://github.com/upj53/shared/assets/27456270/fc4fc3df-487b-4b93-a34e-79c2f74d0d67" alt="Samsung 2024-04-16 B type" style="width:100%; height:auto;"/></a>
+<a href="https://github.com/upj53/shared/assets/27456270/c0fb176d-f182-4130-b465-d1f4dc836a35">
+<img src="https://github.com/upj53/shared/assets/27456270/c0fb176d-f182-4130-b465-d1f4dc836a35" alt="Samsung 2024-04-17 B type" style="width:100%; height:auto;"/></a>
 
 <img src="https://github.com/upj53/shared/assets/27456270/5d327eb5-5563-432e-a16a-46de3f28cb82" alt="Samsung 2024-00-00 A type" style="width:100%; height:auto;"/>
 

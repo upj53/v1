@@ -140,6 +140,7 @@ class="progress-bar bg-danger"
 ```shell
 # ruby --version
 ruby 3.1.3p185 (2022-11-24 revision 1a6b16756e) [x64-mingw-ucrt]
+https://cache.ruby-lang.org/pub/ruby/3.1/ruby-3.1.4.tar.gz
 
 # ruby source build
 ./configure
