@@ -38,6 +38,7 @@ permalink: /area/slownsteady/
 <thead class="table-light text-center">
 <tr>
 <td>티커</td>
+<td>마켓</td>
 <td>수수료</td>
 <td>배당</td>
 <td>시가총액</td>
@@ -48,6 +49,7 @@ permalink: /area/slownsteady/
 <tbody>
 <tr class="text-center" style="color:blue; font-weight:bold;">
 <td>SOXL 1.0</td>
+<td>아멕스</td>
 <td>1.51%</td>
 <td>0.31%</td>
 <td>10.61B</td>
@@ -56,6 +58,7 @@ permalink: /area/slownsteady/
 </tr>
 <tr class="text-center" style="color:red; font-weight:bold;">
 <td>TQQQ 1.0</td>
+<td>나스닥</td>
 <td>0.88%</td>
 <td>1.14%</td>
 <td>20.76B</td>
@@ -64,6 +67,7 @@ permalink: /area/slownsteady/
 </tr>
 <tr class="text-center" style="color:green; font-weight:bold;">
 <td>UPRO 1.0</td>
+<td>아멕스</td>
 <td>0.92%</td>
 <td>0.62%</td>
 <td>3.11B</td>
@@ -72,6 +76,7 @@ permalink: /area/slownsteady/
 </tr>
 <tr class="text-center" style="color:blue; font-weight:bold;">
 <td>SOXS 1.1</td>
+<td>아멕스</td>
 <td>1.13%</td>
 <td>12.11%</td>
 <td>742.86M</td>
@@ -80,6 +85,7 @@ permalink: /area/slownsteady/
 </tr>
 <tr class="text-center" style="color:red; font-weight:bold;">
 <td>SQQQ 4.8</td>
+<td>나스닥</td>
 <td>0.95%</td>
 <td>9.91%</td>
 <td>3.23B</td>
@@ -88,6 +94,7 @@ permalink: /area/slownsteady/
 </tr>
 <tr class="text-center" style="color:green; font-weight:bold;">
 <td>SPXU 1.7</td>
+<td>아멕스</td>
 <td>0.90%</td>
 <td>9.59%</td>
 <td>3.31B</td>
@@ -96,6 +103,7 @@ permalink: /area/slownsteady/
 </tr>
 <tr class="text-center">
 <td>JEPI*</td>
+<td>아멕스</td>
 <td>0.35%</td>
 <td>7.54%</td>
 <td>33.24B</td>
@@ -104,6 +112,7 @@ permalink: /area/slownsteady/
 </tr>
 <tr class="text-center">
 <td>JEPQ*</td>
+<td>나스닥</td>
 <td>0.35%</td>
 <td>8.94%</td>
 <td>11.97B</td>
@@ -144,11 +153,11 @@ permalink: /area/slownsteady/
 <img src="" alt="FG-2 2024-00-00" style="width:100%; height:auto;"/>
 -->
 
-2024-04-17
+2024-04-18
 
-<img src="https://github.com/upj53/shared/assets/27456270/33892b9a-5b0a-4ec1-809a-25c4e5385d53" alt="FG-1 2024-04-17" style="width:100%; height:auto;"/>
+<img src="https://github.com/upj53/shared/assets/27456270/e504013a-a3b6-4d96-9c51-923a38cf9c04" alt="FG-1 2024-04-18" style="width:100%; height:auto;"/>
 
-<img src="https://github.com/upj53/shared/assets/27456270/882f92a7-0f0d-4d10-a111-ade8299730e8" alt="FG-2 2024-04-17" style="width:100%; height:auto;"/>
+<img src="https://github.com/upj53/shared/assets/27456270/db8c6b5d-39cd-4ad8-ac13-887e81473b29" alt="FG-2 2024-04-18" style="width:100%; height:auto;"/>
 
 2024-04-11
 
