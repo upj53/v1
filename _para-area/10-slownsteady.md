@@ -155,11 +155,15 @@ permalink: /area/slownsteady/
 
 2024-04-19
 
+- 이스라엘 이란 공격
+
 <img src="https://github.com/upj53/shared/assets/27456270/472698c7-01e3-4821-be99-9d930ca41f58" alt="FG-1 2024-04-19" style="width:100%; height:auto;"/>
 
 <img src="https://github.com/upj53/shared/assets/27456270/38d09e49-827d-4876-af9f-d244366fbc43" alt="FG-2 2024-04-19" style="width:100%; height:auto;"/>
 
 2024-04-11
+
+- 이란 이스라엘 미사일 폭격
 
 <img src="https://github.com/upj53/shared/assets/27456270/98c33f17-1162-4226-a6af-1aeaf195d5cd" alt="FG-1 2024-04-11" style="width:100%; height:auto;"/>
 
