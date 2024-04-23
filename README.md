@@ -137,18 +137,24 @@ class="progress-bar bg-danger"
 - [Ruby 3.1 Download](https://www.ruby-lang.org/ko/downloads/)
 - [Jekyll Install](https://jekyllrb.com/docs/installation/ubuntu/)
 
+## Ubuntu 에 설치하기
+
 ```shell
+# Jekyll Install
+sudo apt install build-essential zlib1g-dev -y
+
 # ruby --version
 ruby 3.1.3p185 (2022-11-24 revision 1a6b16756e) [x64-mingw-ucrt]
-https://cache.ruby-lang.org/pub/ruby/3.1/ruby-3.1.4.tar.gz
+
 
 # ruby source build
+wget https://cache.ruby-lang.org/pub/ruby/3.1/ruby-3.1.4.tar.gz
+tar -xvf ruby-3.1.4.tar.gz
+cd ruby-3.1.4.tar.gz
+
 ./configure
 make
 sudo make install
-
-# Jekyll Install
-sudo apt install build-essential zlib1g-dev -y
 
 # Jekyll config
 echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
@@ -172,6 +178,51 @@ tail -f nohup.out
 # find service and stop it
 lsof -i :4000
 kill -9 PID번호
+```
+
+## Windows WSL 에 설치하기
+
+- [hyungwook.log](https://velog.io/@hyungwook/WSL-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-RUBY-%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+- [잘못 설치한 ruby 지우기](https://larrysanger.org/2019/01/how-to-delete-ruby-and-rails-and-other-gems-from-ubuntu-18-04/)	
+
+의존성 설치하기
+
+```shell
+sudo apt install curl
+curl -sL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+
+sudo apt update
+sudo apt install -y git-core zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev software-properties-common libffi-dev nodejs yarn
+```
+
+Rbenv 버전관리자 설치하기
+
+```shell
+cd ~/Downloads
+git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+
+git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
+```
+
+Ruby 3.1.4 설치하기
+
+```shell
+rbenv install 3.1.4
+rbenv global 3.1.4
+ruby -v
+gem install jekyll bundler
+```
+
+jekyll 설치
+
+```shello
+bundle install
+bundle exec jekyll serve --host 0.0.0.0 --port 4000 --watch --drafts
 ```
 
 **DEV**
