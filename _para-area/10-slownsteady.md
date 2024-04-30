@@ -17,6 +17,10 @@ permalink: /area/slownsteady/
 <img src="" alt="" style="width:100%; height:auto;"/></a>
 -->
 
+## 2024년 5월
+{: #upj_1705714728828}
+
+
 ## 2024년 4월
 {: #upj_1705714728848}
 
@@ -153,6 +157,15 @@ permalink: /area/slownsteady/
 <img src="" alt="FG-2 2024-00-00" style="width:100%; height:auto;"/>
 -->
 
+2024-04-30
+
+- GDP, 시장실적 발표
+- 실적 괜찮아서 경기 호조, 반등
+
+<img src="https://github.com/upj53/shared/assets/27456270/2ec6f30e-0d61-4094-b40e-dcdc343b574c" alt="FG-1 2024-04-30" style="width:100%; height:auto;"/>
+
+<img src="https://github.com/upj53/shared/assets/27456270/c3c85338-4bdf-4dd8-ad39-ca6ad623313c" alt="FG-2 2024-04-30" style="width:100%; height:auto;"/>
+
 2024-04-19
 
 - 이스라엘 이란 공격
@@ -169,6 +182,10 @@ permalink: /area/slownsteady/
 
 <img src="https://github.com/upj53/shared/assets/27456270/2f3deca1-1229-4abf-b087-16e136bee4b4" alt="FG-2 2024-04-11" style="width:100%; height:auto;"/>
 
+2024-04-01
+
+<img src="https://github.com/upj53/shared/assets/27456270/b1b9b338-5f9c-4c88-85bb-0a920924ecd5" alt="FG-1-2024-03-31" style="width:100%; height:auto;"/>
+
 ### SOXL
 {: #upj_1705714728842}
 
@@ -178,6 +195,11 @@ permalink: /area/slownsteady/
 <a href="">
 <img src="" alt="SOXL 2024-00-00 B type" style="width:100%; height:auto;"/></a>
 -->
+
+<img src="https://github.com/upj53/shared/assets/27456270/e495bcf0-b8ec-48aa-8011-054116ff2c08" alt="SOXL 2024-04-30 A type" style="width:100%; height:auto;"/>
+
+<a href="https://github.com/upj53/shared/assets/27456270/6b921937-8d34-46c4-be36-72bdc963156d">
+<img src="https://github.com/upj53/shared/assets/27456270/6b921937-8d34-46c4-be36-72bdc963156d" alt="SOXL 2024-04-30 B type" style="width:100%; height:auto;"/></a>
 
 <img src="https://github.com/upj53/shared/assets/27456270/4dc847f9-1306-4ba4-ae5c-4b4ec6dba141" alt="SOXL 2024-04-17 A type" style="width:100%; height:auto;"/>
 
@@ -206,6 +228,11 @@ permalink: /area/slownsteady/
 <img src="" alt="TQQQ 2024-00-00 B type" style="width:100%; height:auto;"/></a>
 -->
 
+<img src="https://github.com/upj53/shared/assets/27456270/3a723caf-89ae-4e02-830d-cf0f5d3f62fd" alt="TQQQ 2024-04-30 A type" style="width:100%; height:auto;"/>
+
+<a href="https://github.com/upj53/shared/assets/27456270/3a578f37-adc0-4985-9a49-2b26fbdf2a52">
+<img src="https://github.com/upj53/shared/assets/27456270/3a578f37-adc0-4985-9a49-2b26fbdf2a52" alt="TQQQ 2024-04-30 B type" style="width:100%; height:auto;"/></a>
+
 <img src="https://github.com/upj53/shared/assets/27456270/4b29aab4-6aaf-495f-81f8-bc0a11891ffc" alt="TQQQ 2024-04-17 A type" style="width:100%; height:auto;"/>
 
 <a href="https://github.com/upj53/shared/assets/27456270/c72644ed-62d4-4348-9f22-55b17a762473">
@@ -232,6 +259,11 @@ permalink: /area/slownsteady/
 <a href="">
 <img src="" alt="UPRO 2024-00-00 B type" style="width:100%; height:auto;"/></a>
 -->
+
+<img src="https://github.com/upj53/shared/assets/27456270/4c3d2d0a-6526-4757-a7dd-b393262b5e1c" alt="UPRO 2024-04-30 A type" style="width:100%; height:auto;"/>
+
+<a href="https://github.com/upj53/shared/assets/27456270/9e1ddb08-8e01-40cd-aa93-8408c8c95290">
+<img src="https://github.com/upj53/shared/assets/27456270/9e1ddb08-8e01-40cd-aa93-8408c8c95290" alt="UPRO 2024-04-30 B type" style="width:100%; height:auto;"/></a>
 
 <img src="https://github.com/upj53/shared/assets/27456270/37053bf5-b69a-4577-8c1d-df94b268e30d" alt="UPRO 2024-04-17 A type" style="width:100%; height:auto;"/>
 
@@ -260,6 +292,11 @@ permalink: /area/slownsteady/
 <img src="" alt="Samsung 2024-00-00 B type" style="width:100%; height:auto;"/></a>
 -->
 
+<img src="https://github.com/upj53/shared/assets/27456270/efce8d74-853f-489d-b282-141041fcb2e4" alt="Samsung 2024-04-30 A type" style="width:100%; height:auto;"/>
+
+<a href="https://github.com/upj53/shared/assets/27456270/895344f7-46da-444c-95a6-f0957446d7eb">
+<img src="https://github.com/upj53/shared/assets/27456270/895344f7-46da-444c-95a6-f0957446d7eb" alt="Samsung 2024-04-30 B type" style="width:100%; height:auto;"/></a>
+
 <img src="https://github.com/upj53/shared/assets/27456270/878a8ee4-ad52-4634-8108-bb24d7a073fb" alt="Samsung 2024-04-17 A type" style="width:100%; height:auto;"/>
 
 <a href="https://github.com/upj53/shared/assets/27456270/c0fb176d-f182-4130-b465-d1f4dc836a35">
@@ -283,6 +320,8 @@ permalink: /area/slownsteady/
 <!--
 <img src="" alt="$ 2024-00-00 six month" style="width:100%; height:auto;"/>
 -->
+
+<img src="https://github.com/upj53/shared/assets/27456270/36d9890f-2c5e-4c73-b2c5-0e61f0a31fb8" alt="$ 2024-04-30 six month" style="width:100%; height:auto;"/>
 
 <img src="https://github.com/upj53/shared/assets/27456270/6a6d8c5e-97fa-4c66-ad50-9f4bc59df6b7" alt="$ 2024-04-16 six month" style="width:100%; height:auto;"/>
 
