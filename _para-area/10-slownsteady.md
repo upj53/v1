@@ -11,15 +11,60 @@ permalink: /area/slownsteady/
 {:toc}
 
 <!--
-<img src="" alt="" style="width:100%; height:auto;"/>
-<img src="" alt="" style="width:100%; height:auto; display:inline-block;"/>
-<a href="" target="_blank">
-<img src="" alt="" style="width:100%; height:auto;"/></a>
+<img src="" style="width:100%; height:auto;"/>
+
+<a href="">
+<img src="" style="width:100%; height:auto;"/>
+</a>
 -->
 
 ## 2024년 5월
 {: #upj_1705714728828}
 
+### 월초 시장정보 요약
+{: #upj_1705714728827}
+
+<img src="https://github.com/upj53/shared/assets/27456270/4c2ef289-a304-40ab-ada4-7ab291fc8f76" alt="5월 증시일정캘린더" style="width:100%; height:auto;"/>
+
+Fear and Greed Index 5월 1일
+
+<img src="https://github.com/upj53/shared/assets/27456270/1f7b0324-2af4-4e7d-a06a-ab876276ce4b" alt="FG-1 2024-05-01" style="width:100%; height:auto;"/>
+
+<img src="https://github.com/upj53/shared/assets/27456270/33c39276-4d15-4814-a96a-b67ce57081bc" alt="FG-2 2024-05-01" style="width:100%; height:auto;"/>
+
+Dollar per Won 5월 1일
+
+<img src="https://github.com/upj53/shared/assets/27456270/9ad90e44-0173-4011-a0ef-b1cdc2091e28" alt="$ 2024-05-01 six month" style="width:100%; height:auto;"/>
+
+SOXL 5월 1일
+
+<img src="https://github.com/upj53/shared/assets/27456270/dc135da6-d3c5-41fb-83e3-eb0873e4eb18" style="width:100%; height:auto;"/>
+
+<a href="https://github.com/upj53/shared/assets/27456270/590e09f0-b241-4cd3-9532-8891cf30a8cb">
+<img src="https://github.com/upj53/shared/assets/27456270/590e09f0-b241-4cd3-9532-8891cf30a8cb" style="width:100%; height:auto;"/></a>
+
+삼성전자 5월 1일
+
+<img src="https://github.com/upj53/shared/assets/27456270/e84bc7a5-385f-4643-8fb7-02d0131fdcb2" style="width:100%; height:auto;"/>
+
+<a href="https://github.com/upj53/shared/assets/27456270/91769449-a0a8-41d9-91ff-f3f2a6afa3ff">
+<img src="https://github.com/upj53/shared/assets/27456270/91769449-a0a8-41d9-91ff-f3f2a6afa3ff" style="width:100%; height:auto;"/></a>
+
+JEPI 5월 1일
+
+<img src="https://github.com/upj53/shared/assets/27456270/d57aab70-1baf-400b-9fc0-a6f2f9ed7211" style="width:100%; height:auto;"/>
+
+<a href="https://github.com/upj53/shared/assets/27456270/bb534978-c4cf-490f-8d0f-d0ba7827525e">
+<img src="https://github.com/upj53/shared/assets/27456270/bb534978-c4cf-490f-8d0f-d0ba7827525e" style="width:100%; height:auto;"/>
+</a>
+
+JEPQ 5월 1일
+
+<img src="https://github.com/upj53/shared/assets/27456270/f60583c8-82ef-4f07-b5f1-415da5b5d2c8" style="width:100%; height:auto;"/>
+
+<a href="https://github.com/upj53/shared/assets/27456270/9729d71c-281f-4c38-a102-3e4922133428">
+<img src="https://github.com/upj53/shared/assets/27456270/9729d71c-281f-4c38-a102-3e4922133428" style="width:100%; height:auto;"/>
+</a>
 
 ## 2024년 4월
 {: #upj_1705714728848}
