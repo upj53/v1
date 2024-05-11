@@ -5,11 +5,6 @@ permalink: /area/slownsteady/
 # private: private
 ---
 
-#### Table Of Contents
-
-- TOC
-{:toc}
-
 <!--
 <img src="" style="width:100%; height:auto;"/>
 
@@ -17,6 +12,11 @@ permalink: /area/slownsteady/
 <img src="" style="width:100%; height:auto;"/>
 </a>
 -->
+
+#### Table Of Contents
+
+- TOC
+{:toc}
 
 ## 2024년 5월
 {: #upj_1705714728828}
@@ -65,6 +65,64 @@ JEPQ 5월 1일
 <a href="https://github.com/upj53/shared/assets/27456270/9729d71c-281f-4c38-a102-3e4922133428">
 <img src="https://github.com/upj53/shared/assets/27456270/9729d71c-281f-4c38-a102-3e4922133428" style="width:100%; height:auto;"/>
 </a>
+
+### Fear and Greed Index
+{: #upj_1705714728823}
+
+5월 10일
+
+<img src="https://github.com/upj53/shared/assets/27456270/86bf8edc-deb9-4391-be99-1762fb79d62a" style="width:100%; height:auto;"/>
+
+<img src="https://github.com/upj53/shared/assets/27456270/a0a74b78-7ba0-4b08-9be2-81f203c6b8f6" style="width:100%; height:auto;"/>
+
+![삼성전자-2024-05-11](https://github.com/upj53/shared/assets/27456270/4d0fad37-b018-4225-886c-b90de221554a)
+
+### SOXL
+{: #upj_1705714728824}
+
+5월 10일
+
+<img src="https://github.com/upj53/shared/assets/27456270/4af84641-c542-4a88-ae99-4e636fe8dab3" style="width:100%; height:auto;"/>
+
+<a href="https://github.com/upj53/shared/assets/27456270/1d24fb33-2e14-431e-b412-d0a026bc1fbd">
+<img src="https://github.com/upj53/shared/assets/27456270/1d24fb33-2e14-431e-b412-d0a026bc1fbd" style="width:100%; height:auto;"/>
+</a>
+
+### 삼성전자
+{: #upj_1705714728825}
+
+5월 10일
+
+<img src="https://github.com/upj53/shared/assets/27456270/2b142c39-13f6-4fb2-8f64-cd2aacfa1ed8" style="width:100%; height:auto;"/>
+
+<a href="https://github.com/upj53/shared/assets/27456270/29cbe7d8-7d27-4fda-84f0-a4970666e3cc">
+<img src="https://github.com/upj53/shared/assets/27456270/29cbe7d8-7d27-4fda-84f0-a4970666e3cc" style="width:100%; height:auto;"/>
+</a>
+
+### TQQQ
+{: #upj_1705714728820}
+
+5월 10일
+
+<img src="https://github.com/upj53/shared/assets/27456270/f0bd13bb-23a2-40df-958b-344d21ee58c9" style="width:100%; height:auto;"/>
+
+<a href="https://github.com/upj53/shared/assets/27456270/f643e950-5d9d-43fe-bcbd-985d42d46541">
+<img src="https://github.com/upj53/shared/assets/27456270/f643e950-5d9d-43fe-bcbd-985d42d46541" style="width:100%; height:auto;"/>
+</a>
+
+### JEPI & JEPQ
+{: #upj_1705714728821}
+
+5월 10일
+
+<img src="https://github.com/upj53/shared/assets/27456270/db68786d-ef03-42fc-804d-506b578fb0fb" style="width:100%; height:auto;"/>
+
+<img src="https://github.com/upj53/shared/assets/27456270/6da69ddb-c910-4488-b683-95440b9d3fbd" style="width:100%; height:auto;"/>
+
+### 달러
+{: #upj_1705714728822}
+
+<img src="https://github.com/upj53/shared/assets/27456270/8de289aa-09f1-45d8-8669-b026453e9849" style="width:100%; height:auto;"/>
 
 ## 2024년 4월
 {: #upj_1705714728848}
