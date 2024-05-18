@@ -83,7 +83,9 @@ JEPQ 5월 1일
 
 5월 16일
 
-- CPI, 각종 기업들 호실적 발표
+- 기업들(Google, Microsoft, Amazon..) 호실적 발표
+- 소비자 물가지수(Consumer Price Index, CPI) 발표
+- 생산자 물가지수(Producer Price Index, PPI) 발표
 - 비둘기파적인 파월의 발언
 - 금리 인하 기대
 
