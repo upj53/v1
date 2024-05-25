@@ -99,17 +99,23 @@ JEPQ 5월 1일
 
 <img src="https://github.com/upj53/shared/assets/27456270/bc3de13c-dcc1-4af7-a72f-073a90c07a62" style="width:100%; height:auto;"/>
 
-<a href="https://github.com/upj53/shared/assets/27456270/02cc6a03-874f-43dc-bb85-073351aa8f19">
 <img src="https://github.com/upj53/shared/assets/27456270/02cc6a03-874f-43dc-bb85-073351aa8f19" style="width:100%; height:auto;"/>
-</a>
 
 5월 23일
 
 <img src="https://github.com/upj53/shared/assets/27456270/b5ee38a4-7944-43dd-8be0-631985ad64fb" style="width:100%; height:auto;"/>
 
-<a href="https://github.com/upj53/shared/assets/27456270/4d658f1a-dd1f-450d-be27-b47da2e1e775">
 <img src="https://github.com/upj53/shared/assets/27456270/4d658f1a-dd1f-450d-be27-b47da2e1e775" style="width:100%; height:auto;"/>
-</a>
+
+5월 25일
+
+- 파월 발언
+- FOMC 의사록
+- 글로벌 PMI 발표
+
+<img src="https://github.com/upj53/shared/assets/27456270/eed10263-b825-4396-9e02-f90e2a166fc8" style="width:100%; height:auto;"/>
+
+<img src="https://github.com/upj53/shared/assets/27456270/e6ba4685-bc72-4553-9d02-041289c92ae9" style="width:100%; height:auto;"/>
 
 ### SOXL
 {: #upj_1705714728824}
@@ -153,6 +159,14 @@ JEPQ 5월 1일
 <img src="https://github.com/upj53/shared/assets/27456270/16c0f25c-45b4-41eb-b628-bdf7ce3fff45" style="width:100%; height:auto;"/>
 </a>
 
+5월 25일
+
+- 젠슨 황 호실적 발표
+
+<img src="https://github.com/upj53/shared/assets/27456270/638575ce-b0e3-4b9e-af04-a84ccb764e5f" style="width:100%; height:auto;"/>
+
+<img src="https://github.com/upj53/shared/assets/27456270/d98a869f-2f52-4690-b4b3-43d67f7d4220" style="width:100%; height:auto;"/>
+
 ### 삼성전자
 {: #upj_1705714728825}
 
@@ -195,6 +209,10 @@ JEPQ 5월 1일
 <img src="https://github.com/upj53/shared/assets/27456270/5082ae0a-337c-4237-bedc-328f9781d6ef" style="width:100%; height:auto;"/>
 </a>
 
+5월 25일
+
+<img src="https://github.com/upj53/shared/assets/27456270/7fe1d3c8-68c0-4d7e-961b-4870ee0d0f38" style="width:100%; height:auto;"/>
+
 ### TQQQ
 {: #upj_1705714728820}
 
@@ -230,6 +248,10 @@ JEPQ 5월 1일
 <img src="https://github.com/upj53/shared/assets/27456270/2db911c5-c24d-44e0-85ee-af92d1b8697b" style="width:100%; height:auto;"/>
 </a>
 
+5월 25일
+
+<img src="https://github.com/upj53/shared/assets/27456270/cd466baf-21a5-4cc4-ad77-937e092b4ad8" style="width:100%; height:auto;"/>
+
 ### JEPI & JEPQ
 {: #upj_1705714728821}
 
@@ -257,6 +279,12 @@ JEPQ 5월 1일
 
 <img src="https://github.com/upj53/shared/assets/27456270/d997332d-340f-4f9f-b85a-f14f93cbd219" style="width:100%; height:auto;"/>
 
+5월 25일
+
+<img src="https://github.com/upj53/shared/assets/27456270/fb0cf87f-eb6d-4efa-9ca3-7f5cbfa7c750" style="width:100%; height:auto;"/>
+
+<img src="https://github.com/upj53/shared/assets/27456270/edee6499-48a8-4143-9806-2cbb5df321d0" style="width:100%; height:auto;"/>
+
 ### 달러
 {: #upj_1705714728822}
 
@@ -267,6 +295,8 @@ JEPQ 5월 1일
 <img src="https://github.com/upj53/shared/assets/27456270/56635064-c3f3-4271-bf0c-274723bfdc71" style="width:100%; height:auto;"/>
 
 <img src="https://github.com/upj53/shared/assets/27456270/adf4b652-70ff-4bf3-a5e1-9536d289a98f" style="width:100%; height:auto;"/>
+
+<img src="https://github.com/upj53/shared/assets/27456270/f5a01e2b-e109-4043-b205-04839728d160" style="width:100%; height:auto;"/>
 
 ## 2024년 4월
 {: #upj_1705714728848}
