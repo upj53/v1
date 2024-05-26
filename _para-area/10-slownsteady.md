@@ -298,6 +298,16 @@ JEPQ 5월 1일
 
 <img src="https://github.com/upj53/shared/assets/27456270/f5a01e2b-e109-4043-b205-04839728d160" style="width:100%; height:auto;"/>
 
+### 한국투자증권 API
+{: #upj_1705714728908}
+
+- [한국투자증권 KIS Developers](https://apiportal.koreainvestment.com/intro)
+- [파이썬으로 배우는 오픈API 트레이딩 초급 예제](https://wikidocs.net/book/7559)
+- [파이썬으로 배우는 한국투자증권 Websocket 사용 예제](https://wikidocs.net/book/7847)
+- [한국투자증권 Github](https://github.com/koreainvestment)
+- [헨리의 퀀트대학](https://www.youtube.com/@quant_univ/playlists)
+- [조각모음: 자동매매, Android Hybrid App](https://www.youtube.com/@leebyeungok/playlists)
+
 ## 2024년 4월
 {: #upj_1705714728848}
 
