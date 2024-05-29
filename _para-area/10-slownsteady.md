@@ -967,6 +967,7 @@ from pandas import Series
 import matplotlib.pyplot as plt
 from time import localtime
 import math
+# yf.set_tz_cache_location("custom/cache/location")
 class StockBottom():
   def __init__(self, symbol, *args):
     self.symbol = symbol
@@ -991,21 +992,41 @@ class StockBottom():
     self.set_all(False)
     self.stock_data['SMA50'] = self.stock_data['Close'].rolling(window=50).mean()
     self.stock_data['SMA200'] = self.stock_data['Close'].rolling(window=200).mean()
+    self.stock_data['SMA5'] = self.stock_data['Close'].rolling(window=5).mean()
+    self.stock_data['SMA10'] = self.stock_data['Close'].rolling(window=10).mean()
+    self.stock_data['SMA20'] = self.stock_data['Close'].rolling(window=20).mean()
+    self.stock_data['SMA60'] = self.stock_data['Close'].rolling(window=60).mean()
+    self.stock_data['SMA120'] = self.stock_data['Close'].rolling(window=120).mean()
     self.stock_data_all = pd.DataFrame({
         'close': self.stock_data['Close'].to_list(),
         'SMA50': self.stock_data['SMA50'].to_list(),
         'SMA200': self.stock_data['SMA200'].to_list()
     },index=self.stock_data['Close'].index.to_list())
-  def show_stock(self):
+  def show_stock1(self):
     # Plot the stock price data, the moving averages, and the RSI
-    plt.figure(figsize=(12, 8))
+    plt.figure(figsize=(15, 7))
     plt.title(str(self.graph_title))
     # print('종가={}'.format(self.stock_data['Close']))
     # print('50평={}'.format(self.stock_data['SMA50']))
     # print('200평={}'.format(self.stock_data['SMA200']))
     plt.plot(self.stock_data['Close'], label='Stock Price', color='black')
-    plt.plot(self.stock_data['SMA50'], label='50-day SMA', color='red') #orange
-    plt.plot(self.stock_data['SMA200'], label='200-day SMA', color='orange') #yellow
+    plt.plot(self.stock_data['SMA50'], label='50-day SMA', color='red')
+    plt.plot(self.stock_data['SMA200'], label='200-day SMA', color='orange')
+    plt.legend()
+    plt.show()
+  def show_stock2(self):
+    # Plot the stock price data, the moving averages, and the RSI
+    plt.figure(figsize=(15, 10))
+    plt.title(str(self.graph_title))
+    # print('종가={}'.format(self.stock_data['Close']))
+    # print('50평={}'.format(self.stock_data['SMA50']))
+    # print('200평={}'.format(self.stock_data['SMA200']))
+    plt.plot(self.stock_data['Close'], label='Stock Price', color='black')
+    plt.plot(self.stock_data['SMA5'], label='5-day SMA', color=(0, 0, 1, 0.2))
+    plt.plot(self.stock_data['SMA10'], label='10-day SMA', color=(0, 1, 0, 0.2))
+    plt.plot(self.stock_data['SMA20'], label='20-day SMA', color=(1, 0, 0, 0.1))
+    plt.plot(self.stock_data['SMA60'], label='60-day SMA', color='orange')
+    plt.plot(self.stock_data['SMA120'], label='120-day SMA', color='red')
     plt.legend()
     plt.show()
   def show_stock_all(self):
@@ -1019,7 +1040,7 @@ class StockBottom():
     self.stock_data['SMA50'] = self.stock_data['Close'].rolling(window=50).mean()
     self.stock_data['SMA200'] = self.stock_data['Close'].rolling(window=200).mean()
     # Plot the stock price data, the moving averages, and the RSI
-    plt.figure(figsize=(12, 8))
+    plt.figure(figsize=(30, 8))
     plt.title(str(self.graph_title))
     plt.plot(self.stock_data['Close'], label='Stock Price', color='black')
     plt.plot(self.stock_data['SMA50'], label='50-day SMA', color='red')
